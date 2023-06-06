@@ -44,7 +44,7 @@ function App() {
           {/* <Route path="/project" element={<Project />} /> */}
           <Route path="/resume" element={<Resume />} />
           <Route path="/contact" element={<Contact />} />
-          <Route path="*" element={<Navigate to="/"/>} />
+          <Route path="*" element={<Navigate to="https://tushardatta7.github.io/Tushar/"/>} />
         </Routes>
         <Footer />
       </div>
